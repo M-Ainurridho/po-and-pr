@@ -151,7 +151,7 @@
                 <tbody>
                     @foreach ($datas as $index => $data)
                     <tr>
-                        <td class="border border-gray-400 px-1">{{ $index+1 }}</td>
+                        <td class="border border-gray-400 px-1 bg-gray-200">{{ $index+1 }}</td>
                         <td class="border border-gray-400 px-1">{{ $data['item_no'] }}</td>
                         <td class="border border-gray-400 px-1">{{ $data['item_desc'] }}</td>
                         <td class="border border-gray-400 px-1">{{ $data['item_detail'] }}</td>
@@ -167,7 +167,7 @@
 
                     @for ($i = 0; $i <= 5; $i++)
                         <tr>
-                        <td class="border border-gray-400 h-4"></td>
+                        <td class="border border-gray-400 h-4 bg-gray-200"></td>
                         <td class="border border-gray-400 h-4"></td>
                         <td class="border border-gray-400 h-4"></td>
                         <td class="border border-gray-400 h-4"></td>
