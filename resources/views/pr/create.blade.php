@@ -273,7 +273,7 @@
                                     <td class="border border-gray-400 px-1 truncate text-end"></td>
                                 </tr>
 
-                                @for ($i = 0; $i <= 100; $i++)
+                                @for ($i = 0; $i <= 15; $i++)
                                     <tr>
                                     <td class="border border-gray-400 h-4 bg-gray-200"></td>
                                     <td class="border border-gray-400 h-4"></td>

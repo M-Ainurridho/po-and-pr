@@ -238,7 +238,7 @@
                 </div>
             </div>
 
-            <div class="text-end">
+            <div class="flex text-end">
                 <button class="bg-neutral-200 text-white p-1 px-10 rounded-xs me-1" disabled>Copy From</button>
                 <button class="bg-gray-600 text-white p-1 px-10 rounded-xs">Copy To</button>
             </div>
