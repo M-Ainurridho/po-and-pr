@@ -1,4 +1,20 @@
-INTERFACE UNTUK PURCHASE ORDER DAN PURCHASE REQUISITION
+# INTERFACE UNTUK PURCHASE ORDER DAN PURCHASE REQUISITION
+
+Minimum System Requirement
+- PHP 8.2
+- Composer 2.x
+- Web Server (Apache, Nginx)
+- Local Web Server (XAMPP for Cross Platform / MAMP for Mac / LAMPP for Linux / Laragon for Windows)
+- Database (MySQL ≥ 5.7 / PostgreSQL ≥ 10 / SQLite ≥ 3.26)
+- Node.js dan NPM (optional)
+
+Yang digunakan developer
+- PHP 8.3.2
+- Composer 2.9.2
+- Web Server (Nginx 1.27.2)
+- Local Web Server (MAMP)
+- Database (MySQL 5.2.1)
+- Node.js v22.16.0 dan npm 10.9.2
 
 ## CARA CLONING DARI GITHUB
 1. Pastikan sudah install Git
